@@ -1,5 +1,5 @@
 {
-  "name": "bun-api",
+  "name": "bun-api-hono",
   "private": true,
   "type": "module",
   "module": "index.ts",
